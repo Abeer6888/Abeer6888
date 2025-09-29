@@ -52,5 +52,5 @@ my journey studying electronics engineering and majoring in industrial electroni
 
 ## Projects
 -  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>
-- Password Strength Checker
+- <a href="https://github.com/Abeer6888/Password-Strength-Checker">Password Strength Checker</a>
 - Log File Analyzer
