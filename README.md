@@ -55,5 +55,5 @@ my journey studying electronics engineering and majoring in industrial electroni
 - <a href="https://github.com/Abeer6888/Password-Strength-Checker">Password Strength Checker</a>
 - Log File Analyzer
 - Basic Firewall
-- DNS spoofer
+- packet sniffer
 - Vulnerability scanner
