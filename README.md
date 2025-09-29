@@ -53,7 +53,7 @@ my journey studying electronics engineering and majoring in industrial electroni
 ## Projects
 -  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>
 - <a href="https://github.com/Abeer6888/Password-Strength-Checker">Password Strength Checker</a>
-- Log File Analyzer
+- <a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a>
 - Basic Firewall
 - packet sniffer
 - Vulnerability scanner
