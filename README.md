@@ -12,10 +12,10 @@ my journey studying electronics engineering and majoring in industrial electroni
 
 | Skill                                         |       Associated Project  |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Threat Detection Logic          | <a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a>|
 | Network Fundamentals and Monitoring |  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
 |       Core Programming & Problem Solving  | <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
-|      | |
+|    Log Analysis Fundamentals  |<a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a> |
 |                  | |
 | Scripting and Automation for Threat Mitigation | |
 
