@@ -16,7 +16,7 @@ my journey studying electronics engineering and majoring in industrial electroni
 | Network Fundamentals and Monitoring |  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
 |       Core Programming & Problem Solving  | <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
 |    Log Analysis Fundamentals  |<a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a> |
-|                  | |
+|              Security Engineering and Policy Managment    | |
 | Scripting and Automation for Threat Mitigation | |
 
 ## Tools
