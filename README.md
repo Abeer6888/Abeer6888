@@ -13,11 +13,11 @@ my journey studying electronics engineering and majoring in industrial electroni
 | Skill                                         |       Associated Project  |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-|         | SOC Automation Lab|
-|      | SOC Automation Lab|
-|                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Fundamentals and Monitoring |  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
+|       Core Programming & Problem Solving  | <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
+|      | |
+|                  | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Tools
 
@@ -51,6 +51,6 @@ my journey studying electronics engineering and majoring in industrial electroni
 </div>
 
 ## Projects
-- Network port scanner
+-  <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>
 - Password checker
 - log praser
