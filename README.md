@@ -17,7 +17,8 @@ my journey studying electronics engineering and majoring in industrial electroni
 |       Core Programming & Problem Solving  | <a href="https://github.com/Abeer6888/network-port-scanner">Network Port Scanner</a>|
 |    Log Analysis Fundamentals  |<a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a> |
 |              Security Engineering and Policy Managment    | <a href="https://github.com/Abeer6888/Basic-Firewall/blob/main/README.md">Basic Firewall</a>|
-| Scripting and Automation for Threat Mitigation | |
+| Scripting and Automation for Threat Mitigation |<a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a> |
+| Web Reconnaissance |<a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a> |
 
 ## Tools
 
@@ -56,4 +57,4 @@ my journey studying electronics engineering and majoring in industrial electroni
 - <a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a>
 - <a href="https://github.com/Abeer6888/Basic-Firewall/blob/main/README.md">Basic Firewall</a>
 - <a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a>
-- Vulnerability scanner
+- Secure File Transfer Application
