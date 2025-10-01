@@ -55,5 +55,5 @@ my journey studying electronics engineering and majoring in industrial electroni
 - <a href="https://github.com/Abeer6888/Password-Strength-Checker">Password Strength Checker</a>
 - <a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a>
 - <a href="https://github.com/Abeer6888/Basic-Firewall/blob/main/README.md">Basic Firewall</a>
-- packet sniffer
+- <a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a>
 - Vulnerability scanner
