@@ -19,6 +19,7 @@ my journey studying electronics engineering and majoring in industrial electroni
 |              Security Engineering and Policy Managment    | <a href="https://github.com/Abeer6888/Basic-Firewall/blob/main/README.md">Basic Firewall</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a> |
 | Web Reconnaissance |<a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a> |
+| Data Protection & Cryptography | <a href="https://github.com/Abeer6888/Secure-File-Transfer-Application">Secure File Transfer Application</a> |
 
 ## Tools
 
@@ -57,4 +58,4 @@ my journey studying electronics engineering and majoring in industrial electroni
 - <a href="https://github.com/Abeer6888/Log-File-Analyzer">Log File Analyzer</a>
 - <a href="https://github.com/Abeer6888/Basic-Firewall/blob/main/README.md">Basic Firewall</a>
 - <a href="https://github.com/Abeer6888/Simple-Directory-and-File-Brute-Forcer">Simple Directory and File Brute-Forcer</a>
-- Secure File Transfer Application
+- <a href="https://github.com/Abeer6888/Secure-File-Transfer-Application">Secure File Transfer Application</a>
