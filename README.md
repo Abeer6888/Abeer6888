@@ -3,7 +3,7 @@
 
 
 
-I am an electronics engineering graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring Cybersecurity Analyst with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 my journey studying electronics engineering and majoring in industrial electronics has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, as a cybersecurity engineer.
